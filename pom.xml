@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.billafza</groupId>
   <artifactId>contohproject</artifactId>
-  <version>0.3.5</version>
+  <version>0.3.6</version>
 	<name>contohproject</name>
 	<description>Continuous Deployment Example</description>
 
